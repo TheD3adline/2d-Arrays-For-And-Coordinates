@@ -8,4 +8,4 @@ I did this little practice to refresh my knowledge on the topic, because I notic
 that I still ran into issues to make proper sense of it all when working on the
 Conway's Game Of Life workshop that is part of the programmieren-starten.de curriculum.
 I understand it properly now and will add it to my little cheat sheet, 
-can't wait to work with 3d or even 4d arrays so my brain gets fried again then hahaha.
+can't wait to work with 3d or even 4d arrays so my brain gets fried completely anew hahaha.
